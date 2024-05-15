@@ -1,10 +1,5 @@
-// src/theme.js
 import { createTheme } from '@mui/material/styles';
-//03284A
-//17679F
-//0F73B6
-//5DB0DE
-//BADCF2
+
 const theme = createTheme({
   palette: {
     mode: 'dark',
