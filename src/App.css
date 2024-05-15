@@ -1,0 +1,10 @@
+/* App.css - Assuming you are using a separate CSS file for styling */
+body {
+  color: #E0E0E0; /* Light gray text */
+  background-color: #121212; /* Slightly darker background */
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+  color: #FFFFFF; /* White for headers for more contrast */
+}
